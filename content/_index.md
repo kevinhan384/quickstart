@@ -5,7 +5,7 @@ title: "Kevin Han | Computer Science Student"
 # Kevin Han
 [kevinhan384@gmail.com](mailto:kevinhan384@gmail.com) | [linkedin.com/in/kevin-h384](https://linkedin.com/in/kevin-h384) | [github.com/kevinhan384](https://github.com/kevinhan384)
 
-![A photo of Kevin Han](/images/profile.jpg)
+![A photo of Kevin Han](images/profile.jpg)
 <br>
 
 **On this page:**
