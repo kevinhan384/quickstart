@@ -40,10 +40,6 @@ title: "Kevin Han | Computer Science Student"
 * Implemented 95.2% accurate multi-class SVM machine learning model to classify 19M-row mechano-acoustic dataset using scikit-learn, pandas and NumPy (publication under submission to Device)
 * Developed iOS asset management app supporting 100+ employees using SQLite database, Swift frontend and Rust REST API backend with user role-based access control to catalog tech devices
 
-**Research Intern** @ **C3 Lab at Northwestern University** (Evanston, IL)
-*Jan. 2025 – Mar. 2025*
-* Rearchiteched the JavaScript frontend infrastructure for "Elizabeth," an interactive Zoom chatbot delivering real-time, avatar-driven conversations powered by an LLM backend, by leveraging SitePal API
-
 **Computer Science Teaching Assistant** @ **Northwestern University** (Evanston,IL)
 *Sep. 2024 – Dec. 2024*
 * Led office hours for class of 90+ students through weekly C and C++ programming mini-projects and labs
@@ -51,9 +47,6 @@ title: "Kevin Han | Computer Science Student"
 ---
 
 ## Projects
-
-**Database From Scratch (C++)**
-* Engineered a relational database management system from scratch, achieving a 9x boost in SQL execution speed by implementing buffer pool with LRU-K eviction, B+ tree indexing and Volcano query optimization
 
 **Formula 1 Telemetry Analysis (JavaScript, Python, HTML, CSS)**
 * Built a full-stack web app with Django REST API and React to visualize 1M+ telemetry data points by integrating FastF1 library for data ingestion, and reCharts to create interactive visualizations to compare drivers
